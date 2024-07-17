@@ -1,0 +1,18 @@
+2024-07-15 17:18:24,128:INFO:Tabel buku dibuat.
+2024-07-15 17:21:31,126:INFO:Buku 'Python Programming' oleh John Doe telah disimpan.
+2024-07-15 17:21:33,044:INFO:Buku 'Python Programming' oleh John Doe telah disimpan.
+2024-07-15 17:21:57,173:INFO:Buku 'Python Programming' oleh John Doe telah disimpan.
+2024-07-15 17:22:43,206:ERROR:Buku dengan judul 'Python' tidak ditemukan.
+2024-07-15 17:22:44,247:ERROR:Buku dengan judul 'Python' tidak ditemukan.
+2024-07-15 17:24:24,276:ERROR:Buku dengan judul 'Mathematics for Machine Learning' tidak ditemukan.
+2024-07-15 17:24:44,343:ERROR:Buku dengan judul 'Mathematics for Machine Learning' tidak ditemukan.
+2024-07-15 17:30:11,064:INFO:package: mysql.connector.plugins
+2024-07-15 17:30:11,065:INFO:plugin_name: mysql_native_password
+2024-07-15 17:30:11,066:INFO:AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2024-07-15 17:30:11,070:INFO:Tabel buku dibuat.
+2024-07-15 17:32:32,129:INFO:Tabel buku dibuat.
+2024-07-15 17:33:00,651:INFO:Buku 'Python Programming' oleh John Doe telah disimpan.
+2024-07-15 17:42:40,796:INFO:Tabel buku dibuat.
+2024-07-15 17:44:54,915:INFO:Tabel buku dibuat.
+2024-07-15 17:46:02,349:INFO:Buku 'Python Programming' oleh John Doe telah disimpan.
+2024-07-15 17:47:13,639:ERROR:Buku dengan judul 'Python%Programming' tidak ditemukan.
